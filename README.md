@@ -21,7 +21,7 @@ Git-Chat is a Streamlit-based application that uses Google's Generative AI (Gemi
 
 1. Clone this repository:
    ```bash
-   git clone <[repository_url](https://github.com/Amankumaraman/GitChat)>
+   git clone <https://github.com/Amankumaraman/GitChat>
    cd git-chat
    ```
 
@@ -94,11 +94,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
 
 ## Acknowledgements
 
